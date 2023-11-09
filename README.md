@@ -19,9 +19,7 @@ Step 3:
 
 End the for loop.
 ## Program:
-Developed By: Jayamani.R
 
-Reg no: 212222100014
 ```C#
 using System;
 namespace condition
